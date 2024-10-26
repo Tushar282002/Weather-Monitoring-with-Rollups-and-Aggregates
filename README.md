@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 # Real-Time Weather Monitoring System
@@ -117,7 +116,4 @@ You should now be able to view the app in your browser.
 
 Feel free to contribute by opening an issue or submitting a pull request.
 
--
-=======
-# weather-monitoring
->>>>>>> eb02d34e69978729263f64968469244d9ce72859
+
