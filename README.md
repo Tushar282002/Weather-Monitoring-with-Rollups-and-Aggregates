@@ -4,9 +4,6 @@
 
 This project is a real-time weather monitoring system that fetches weather data for multiple cities and displays it in a React frontend. The backend, built using Node.js and Express, fetches weather data from the OpenWeatherMap API and stores it in MongoDB.
 
-![WhatsApp Image 2024-10-25 at 10 46 37 PM](https://github.com/user-attachments/assets/78930da3-b1e0-4b81-8abb-c1efec12595b)
-![WhatsApp Image 2024-10-26 at 10 16 30 AM](https://github.com/user-attachments/assets/38d2465b-1ada-4eb6-84ff-09c701ea4224)
-
 
 ## Table of Contents 
 
