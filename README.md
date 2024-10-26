@@ -6,7 +6,7 @@ This project is a real-time weather monitoring system that fetches weather data 
 
 ## Table of Contents 
 
-- [Features](#features)
+- [Features](#features) 
 - [Architecture and Design Choices](#architecture-and-design-choices)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
